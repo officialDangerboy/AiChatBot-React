@@ -32,3 +32,25 @@ git clone https://github.com/officialDangerboy/AiChatBot-React.git
 cd AiChatBot-React
 ```
 
+2. **Fill Your Gemini api**
+```bash
+cd backend
+```
+Here .env fill you api here
+
+3. **Run Backend locally**
+``` bash
+npm install
+node server.js
+```
+
+4. **Now Run Your React App**
+``` bash
+npm install
+npm run dev
+```
+
+## Notice ❗
+keep run your backend dont close else your ChatBot not works properly
+
+
